@@ -5,6 +5,7 @@ This is a Turborepo + pnpm monorepo with a Next.js (App Router) app and a simple
 ## How to run
 
 pnpm install
+
 pnpm dev
 
 ## Path of page
